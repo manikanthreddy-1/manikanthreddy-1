@@ -3,7 +3,7 @@
   Tip: Update the <!-- comments --> throughout to keep this README fresh!
 -->
 
-<h1 align="center">Hi there, I'm Manikanthreddy Damma 👋</h1>
+<h1 align="center"> I'm Manikanthreddy Damma 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Raw Data into Real Insights 📊</h3>
 
 <p align="center">
