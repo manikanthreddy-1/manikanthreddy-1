@@ -103,12 +103,12 @@ Analyzed 1,000+ customer records to identify high-value customer segments, repea
 
 ---
 
-#### 🔹 Blinkit Data Analytics — Sales, Delivery & Customer Insights 🚧 *(In Progress)*
+#### 🔹 Blinkit Data Analytics — Sales, Delivery & Customer Insights 
 An end-to-end data analytics project analyzing 8 relational datasets to uncover insights into sales, customer behavior, delivery performance, inventory, marketing campaigns, and customer feedback.
 
 **Tech Stack:** `Python` `SQL` `Excel` `Power BI` `Pandas` `MySQL`
 
-🔗 *Repository link coming soon — update this once published!*
+🔗 [https://github.com/manikanthreddy-1/Blinkit-Data-Analytics-Project]
 
 ---
 
