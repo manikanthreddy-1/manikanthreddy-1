@@ -108,7 +108,7 @@ An end-to-end data analytics project analyzing 8 relational datasets to uncover 
 
 **Tech Stack:** `Python` `SQL` `Excel` `Power BI` `Pandas` `MySQL`
 
-🔗 [https://github.com/manikanthreddy-1/Blinkit-Data-Analytics-Project]
+🔗 [View Repository](https://github.com/manikanthreddy-1/Blinkit-Data-Analytics-Project)
 
 ---
 
